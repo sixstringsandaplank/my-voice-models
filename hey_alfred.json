@@ -1,5 +1,5 @@
 {
   "name": "Hey Alfred",
   "model_type": "mww_v2",
-  "tflite_model": "https://githubusercontent.com"
+  "tflite_model": "hey_alfred.tflite"
 }
